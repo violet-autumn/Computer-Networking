@@ -11,11 +11,11 @@ Notes from the study of Computer Networking - A top down approach.
  	* What is a Protocol?
 * 1.2 The Network Edge
 	* Access Networks
- 		* ISP to modem/router: DSL, Cable, FTTH, and 5G Fixed Wireless
+ 		* ISP to modem/router: DSL, Cable, FTTH, and 5G Fixed Wireless Access (FWA)
    		* Router to end system (LAN): Ethernet and WiFi
      	* Wide-Area Wireless Access: 3G and LTE 4G and 5G
  	* Physical Media
-  		* Twisted Pair Copper Wire
+    	* Twisted Pair Copper Wire
     	* Coaxial Cable
      	* Fiber Optics
       	* Terrestrial Radio Channels
