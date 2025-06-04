@@ -19,4 +19,13 @@ Notes from the study of Computer Networking - A top down approach.
     	* Coaxial Cable
      	* Fiber Optics
       	* Terrestrial Radio Channels
-      	* Satellite Radio Channels 
+      	* Satellite Radio Channels
+* 1.3 The Network Core
+	* Packet Switching
+ 		* Store-and-Forward Packet Switching
+   		* Queuing Delays and Packet Loss
+     	* Forwarding Tables and Routing Protocols 
+ 	* Circuit Switching
+  		* Multiplexing in Circuit Switched Networks
+    	* Packet Switching vs Circuit Switching
+  	* A Network of Networks
