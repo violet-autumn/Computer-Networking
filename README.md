@@ -29,3 +29,14 @@ Notes from the study of Computer Networking - A top down approach.
   		* Multiplexing in Circuit Switched Networks
     	* Packet Switching vs Circuit Switching
   	* A Network of Networks
+* 1.4 Delay, Loss, and Throughput in Packet-switched networks
+	* Overview of Delay in Packet-Switched Networks
+ 		* Types of delays
+	 		* Processing delay
+	   		* Queuing delay
+	     	* Transmission delay
+	      	* Propogation delay
+		* Comparing Transmission and Propagation Delay
+  	* Queuing Delay and Packet Loss
+  	* End-to-End Delay
+  	* Throughput in Computer Networks
