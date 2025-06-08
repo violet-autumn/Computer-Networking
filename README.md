@@ -20,7 +20,7 @@ Notes from the study of Computer Networking - A top down approach.
     	* Coaxial Cable
      	* Fiber Optics
       	* Terrestrial Radio Channels (Bluetooth, WiFi, Cellular)
-      	* Satellite Radio Channels
+      	* Satellite Radio Channels 
 
 * 1.3 The Network Core
 	* Packet Switching
