@@ -41,4 +41,6 @@ Notes from the study of Computer Networking - A top down approach.
   		* Traffic Intensity
   	 	* Packet Loss
   	* End-to-End Delay
+  		* Traceroute
+  	 	* End System, Application, and Other Delays	
   	* Throughput in Computer Networks
