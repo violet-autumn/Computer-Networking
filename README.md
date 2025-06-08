@@ -44,3 +44,5 @@ Notes from the study of Computer Networking - A top down approach.
   		* Traceroute
   	 	* End System, Application, and Other Delays	
   	* Throughput in Computer Networks
+  		* Bottlenecks
+* 1.5 Protocol Layers and Their Service Models
