@@ -9,6 +9,7 @@ Notes from the study of Computer Networking - A top down approach.
 	* A Nuts and Bolt description
  	* A Services Description
  	* What is a Protocol?
+
 * 1.2 The Network Edge
 	* Access Networks
  		* ISP to modem/router: DSL, Cable, FTTH, and 5G Fixed Wireless Access (FWA)
@@ -20,6 +21,7 @@ Notes from the study of Computer Networking - A top down approach.
      	* Fiber Optics
       	* Terrestrial Radio Channels
       	* Satellite Radio Channels
+
 * 1.3 The Network Core
 	* Packet Switching
  		* Store-and-Forward Packet Switching
@@ -29,6 +31,7 @@ Notes from the study of Computer Networking - A top down approach.
   		* Multiplexing in Circuit Switched Networks
     	* Packet Switching vs Circuit Switching
   	* A Network of Networks
+
 * 1.4 Delay, Loss, and Throughput in Packet-switched networks
 	* Overview of Delay in Packet-Switched Networks
  		* Types of delays
@@ -45,4 +48,5 @@ Notes from the study of Computer Networking - A top down approach.
   	 	* End System, Application, and Other Delays	
   	* Throughput in Computer Networks
   		* Bottlenecks
+
 * 1.5 Protocol Layers and Their Service Models
