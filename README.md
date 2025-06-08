@@ -34,9 +34,11 @@ Notes from the study of Computer Networking - A top down approach.
  		* Types of delays
 	 		* Processing delay
 	   		* Queuing delay
-	     	* Transmission delay
-	      	* Propogation delay
+			* Transmission delay
+			* Propogation delay
 		* Comparing Transmission and Propagation Delay
   	* Queuing Delay and Packet Loss
+  		* Traffic Intensity
+  	 	* Packet Loss
   	* End-to-End Delay
   	* Throughput in Computer Networks
