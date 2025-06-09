@@ -50,3 +50,13 @@ Notes from the study of Computer Networking - A top down approach.
   		* Bottlenecks
 
 * 1.5 Protocol Layers and Their Service Models
+	* Layered Architecture
+ 		* Protocol Layering
+   		* Application Layer (packet: message)
+     	* Transport Layer (packet: segment)
+      	* Network Layer (packet: datagram)
+      	* Link Layer (packet: frame)
+      	* Physical Layer
+	* Encapsulation
+
+* 1.6 Networks Under Attack 
