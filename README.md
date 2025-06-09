@@ -60,4 +60,4 @@ Notes from the study of Computer Networking - A top down approach.
   	* Denial of Service - Attack on Servers and Network Infrastructure
   	* Packet Sniffing
   	* Masquerade As Someone Else - IP Spoofing
-* <b>History of Computer Networking and the Internet</b>
+* <b>1.7 History of Computer Networking and the Internet</b>
