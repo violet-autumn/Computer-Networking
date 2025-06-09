@@ -5,12 +5,11 @@ Notes from the study of Computer Networking - A top down approach.
 # INDEX
 
 ## Chapter 1: Computer Networks and the Internet 
-* 1.1 What Is the Internet
+* <b>1.1 What Is the Internet</b>
 	* A Nuts and Bolt description
  	* A Services Description
  	* What is a Protocol?
-
-* 1.2 The Network Edge
+* <b>1.2 The Network Edge</b>
 	* Access Networks
  		* ISP to modem/router: DSL, Cable, FTTH, and 5G Fixed Wireless Access (FWA)
    		* Router to end system (LAN): Ethernet and WiFi
@@ -21,8 +20,7 @@ Notes from the study of Computer Networking - A top down approach.
      	* Fiber Optics
       	* Terrestrial Radio Channels (Bluetooth, WiFi, Cellular)
       	* Satellite Radio Channels 
-
-* 1.3 The Network Core
+* <b>1.3 The Network Core</b>
 	* Packet Switching
  		* Store-and-Forward Packet Switching
    		* Queuing Delays and Packet Loss
@@ -31,8 +29,7 @@ Notes from the study of Computer Networking - A top down approach.
   		* Multiplexing in Circuit Switched Networks
     	* Packet Switching vs Circuit Switching
   	* A Network of Networks
-
-* 1.4 Delay, Loss, and Throughput in Packet-switched networks
+* <b>1.4 Delay, Loss, and Throughput in Packet-switched networks</b>
 	* Overview of Delay in Packet-Switched Networks
  		* Types of delays
 	 		* Processing delay
@@ -48,8 +45,7 @@ Notes from the study of Computer Networking - A top down approach.
   	 	* End System, Application, and Other Delays	
   	* Throughput in Computer Networks
   		* Bottlenecks
-
-* 1.5 Protocol Layers and Their Service Models
+* <b>1.5 Protocol Layers and Their Service Models</b>
 	* Layered Architecture
  		* Protocol Layering
    		* Application Layer (packet: message)
@@ -58,5 +54,4 @@ Notes from the study of Computer Networking - A top down approach.
       	* Link Layer (packet: frame)
       	* Physical Layer
 	* Encapsulation
-
-* 1.6 Networks Under Attack 
+* <b>1.6 Networks Under Attack</b>
