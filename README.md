@@ -61,3 +61,10 @@ Notes from the study of Computer Networking - A top down approach.
   		* Packet Sniffing
   		* Masquerade As Someone Else - IP Spoofing
 * <b>1.7 History of Computer Networking and the Internet</b>
+	* The Development of Packet Switching: 1961–1972
+ 	* Proprietary Networks and Internetworking: 1972–1980
+  	* A Proliferation of Networks: 1980–1990
+  	* The Internet Explosion: The 1990s
+  	* The New Millennium
+* <b>1.8 Summary</b>
+
