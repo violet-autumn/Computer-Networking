@@ -66,5 +66,6 @@ Notes from the study of Computer Networking - A top down approach.
   	* A Proliferation of Networks: 1980–1990
   	* The Internet Explosion: The 1990s
   	* The New Millennium
-* <b>1.8 Summary</b>
+
+## Chapter 2: Application Layer
 
