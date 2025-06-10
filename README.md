@@ -68,4 +68,13 @@ Notes from the study of Computer Networking - A top down approach.
   	* The New Millennium
 
 ## Chapter 2: Application Layer
-
+* <b>2.1 Principles of Network Applications</b>
+	* Network Application Architectures
+ 		* Client-Server Architecture
+   		* Peer-to-Peer Architecture
+ 	* Processes Communicating
+  		* Processes
+    	* Client and Server Processes
+     	* Sockets - The Interface Between the Process and the Computer Network
+      	* Addressing Processes using Ports
+	*  
