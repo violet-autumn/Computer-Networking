@@ -55,9 +55,9 @@ Notes from the study of Computer Networking - A top down approach.
       	* Physical Layer
 	* Encapsulation
 * <b>1.6 Networks Under Attack</b>
-	* Network Security
- 	* Malware in the End-system via the Internet
-  	* Denial of Service - Attack on Servers and Network Infrastructure
-  	* Packet Sniffing
-  	* Masquerade As Someone Else - IP Spoofing
+	* Types of Attacks
+ 		* Malware in the End-system via the Internet
+  		* Denial of Service - Attack on Servers and Network Infrastructure
+  		* Packet Sniffing
+  		* Masquerade As Someone Else - IP Spoofing
 * <b>1.7 History of Computer Networking and the Internet</b>
