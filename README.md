@@ -78,3 +78,10 @@ Notes from the study of Computer Networking - A top down approach.
      	* Sockets - The Interface Between the Process and the Computer Network
       	* Addressing Processes using Ports
 	* Transport Services Available to Applications
+ 		* Reliable data transfer
+   		* Throughput
+     	* Timing
+      	* Security
+	* Transport Services Provided by the Internet
+ 		* TCP Services (Connection-oriented, Reliable data transfer, Congestion control, TLS enhancement for security)
+   		* UDP Services (Connectionless, Unreliable data transfer, No congestion control)  
