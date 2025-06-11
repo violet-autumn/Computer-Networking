@@ -84,4 +84,6 @@ Notes from the study of Computer Networking - A top down approach.
       	* Security
 	* Transport Services Provided by the Internet
  		* TCP Services (Connection-oriented, Reliable data transfer, Congestion control, TLS enhancement for security)
-   		* UDP Services (Connectionless, Unreliable data transfer, No congestion control)  
+   		* UDP Services (Connectionless, Unreliable data transfer, No congestion control)
+     	* Services Not Provided by Internet Transport Protocols (Throughput, Timing)
+  	* Application-Layer Protocols
