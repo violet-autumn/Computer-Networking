@@ -87,3 +87,4 @@ Notes from the study of Computer Networking - A top down approach.
    		* UDP Services (Connectionless, Unreliable data transfer, No congestion control)
      	* Services Not Provided by Internet Transport Protocols (Throughput, Timing)
   	* Application-Layer Protocols
+* <b>2.2 The Web and HTTP</b>
