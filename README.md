@@ -88,3 +88,11 @@ Notes from the study of Computer Networking - A top down approach.
      	* Services Not Provided by Internet Transport Protocols (Throughput, Timing)
   	* Application-Layer Protocols
 * <b>2.2 The Web and HTTP</b>
+	* Overview of HTTP
+ 	* Non-Persistent and Persistent Connections
+  		* HTTP with Non-Persistent Connections
+		* HTTP with Persistent Connections
+  	* HTTP Message Format
+  		* HTTP Request Message
+		* HTTP Response Message
+  	* User-Server Interaction: Cookies 
