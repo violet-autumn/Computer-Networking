@@ -95,4 +95,5 @@ Notes from the study of Computer Networking - A top down approach.
   	* HTTP Message Format
   		* HTTP Request Message
 		* HTTP Response Message
-  	* User-Server Interaction: Cookies 
+  	* User-Server Interaction: Cookies
+  	* Web Caching
