@@ -100,3 +100,8 @@ Notes from the study of Computer Networking - A top down approach.
   		* Advantages of Web Caching
   	 	* The Conditional Get
   	* HTTP/2
+  		* Head-of-Line Blocking
+  	 	* HTTP/2 Framing
+  	  	* Response Message Prioritization and Server Pushing
+  	  	* HTTP/3
+* <b>2.3 Electronic Mail in the Internet</b>	
