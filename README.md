@@ -97,3 +97,6 @@ Notes from the study of Computer Networking - A top down approach.
 		* HTTP Response Message
   	* User-Server Interaction: Cookies
   	* Web Caching
+  		* Advantages of Web Caching
+  	 	* The Conditional Get
+  	* HTTP/2
