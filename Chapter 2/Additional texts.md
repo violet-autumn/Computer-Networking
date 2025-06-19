@@ -46,3 +46,39 @@ cache-control: private, s-maxage=0, max-age=0, must-revalidate, no-transform
 content-length: 79266
 X-Firefox-Spdy: h2
 ```
+
+***
+
+### Telnet to a Website
+
+```
+telnet google.com 80
+GET / HTTP/1.1
+```
+
+```
+telnet google.com 80
+Trying 2404:6800:4007:80f::200e...
+Connected to google.com.
+Escape character is '^]'.
+GET / HTTP/1.1
+
+HTTP/1.1 200 OK
+Date: Thu, 19 Jun 2025 18:28:28 GMT
+Expires: -1
+Cache-Control: private, max-age=0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-t6l6tmAHRJ6nH7K6E_zmtA' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: <REDACTED>
+Set-Cookie: <REDACTED>
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+<HTML code>
+```
+
+***
