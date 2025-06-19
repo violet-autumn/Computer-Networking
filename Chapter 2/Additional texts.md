@@ -51,6 +51,9 @@ X-Firefox-Spdy: h2
 
 ### Telnet to a Website
 
+Write the following in your terminal (one line at a time) and press enter twice to receive a response.
+Note: Telnet only supports till HTTP/1.1 (and post 80 means there is no TLS).
+
 ```
 telnet google.com 80
 GET / HTTP/1.1
