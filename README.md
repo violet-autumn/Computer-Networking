@@ -105,3 +105,8 @@ Notes from the study of Computer Networking - A top down approach.
   	  	* Response Message Prioritization and Server Pushing
   	  	* HTTP/3
 * <b>2.3 Electronic Mail in the Internet</b>	
+	* SMTP
+ 		* Transcript between SMTP mail servers
+   	* Mail Message Formats
+   	* Mail Access Protocols
+* <b>2.4 DNS—The Internet’s Directory Service</b>
