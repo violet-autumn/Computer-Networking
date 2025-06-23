@@ -85,3 +85,15 @@ Transfer-Encoding: chunked
 ```
 
 ***
+
+### DNS - IP address lookup
+
+Run the following command in terminal:
+
+```
+ping www.google.com
+```
+
+The generated resonse will contain the IP address for the provided hostname (`142.251.223.14` in our case). Run the IP address in the browser and the Google homepage will open up!
+
+*** 
