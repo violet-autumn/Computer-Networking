@@ -115,4 +115,12 @@ Notes from the study of Computer Networking - A top down approach.
    		* Host aliasing
      	* Mail server aliasing
       	* Load distribution
-	* Overview of How DNS Works 
+	* Overview of How DNS Works
+ 		* Drawbacks of a centralised DNS design
+   		* A Distributed, Hierarchical Database
+     	* Root DNS servers
+      	* Top-level domain (TLD) servers
+      	* Authoritative DNS servers
+      	* Local DNS server (Recursive DNS resolvers)
+      	* DNS Caching
+	* DNS Records and Messages    
