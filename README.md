@@ -110,3 +110,9 @@ Notes from the study of Computer Networking - A top down approach.
    	* Mail Message Formats
    	* Mail Access Protocols
 * <b>2.4 DNS—The Internet’s Directory Service</b>
+	* Services Provided by DNS
+ 		* Translating Hostnames to IP address
+   		* Host aliasing
+     	* Mail server aliasing
+      	* Load distribution
+	* Overview of How DNS Works 
