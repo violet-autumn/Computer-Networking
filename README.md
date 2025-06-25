@@ -123,4 +123,11 @@ Notes from the study of Computer Networking - A top down approach.
       	* Authoritative DNS servers
       	* Local DNS server (Recursive DNS resolvers)
       	* DNS Caching
-	* DNS Records and Messages    
+	* DNS Records and Messages
+ 		* DNS Resource Records
+   		* DNS Messages
+     	* Inserting Records into the DNS Database
+  	* DNS Security
+  		* Attacks on DNS (DDoS, Man-in-the-middle, DNS Poisoning)
+  	 	* DNSSEC
+* <b>2.5 Peer-to-Peer File Distribution</b>
