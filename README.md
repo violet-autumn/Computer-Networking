@@ -131,3 +131,9 @@ Notes from the study of Computer Networking - A top down approach.
   		* Attacks on DNS (DDoS, Man-in-the-middle, DNS Poisoning)
   	 	* DNSSEC
 * <b>2.5 Peer-to-Peer File Distribution</b>
+	* Overview of P2P architecture
+ 	* Scalability of P2P Architectures
+  		* Distribution time for the client-server architecture
+    	* Distribution time for the P2P architecture
+     	* Comparing D<sub>client-server</sub> and D<sub>P2P</sub>
+	* BitTorrent
