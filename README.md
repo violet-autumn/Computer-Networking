@@ -137,3 +137,5 @@ Notes from the study of Computer Networking - A top down approach.
     	* Distribution time for the P2P architecture
      	* Comparing D<sub>client-server</sub> and D<sub>P2P</sub>
 	* BitTorrent
+ 		* Overview of how BitTorrent works
+* <b>2.6 Video Streaming and Content Distribution Networks </b>
